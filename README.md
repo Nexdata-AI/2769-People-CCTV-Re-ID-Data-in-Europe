@@ -2,7 +2,7 @@
 
 ## Description
 2,769 People – CCTV Re-ID Data in Europe. The data includes males and females, the race distribution is Caucasian, black, Asian, and the age distribution is from children to the elderly. The data diversity includes different age groups, different time periods, different cameras, different human body orientations and postures. For annotation, the rectangular bounding boxes and 15 attributes of human body were annotated. This data can be used for re-id and other tasks.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1322?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1322?source=Github
 
 ## Data size
 2,769 people, 1-25 cameras for each person
